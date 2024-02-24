@@ -1065,7 +1065,7 @@ body.nav-active {
 
 .about .abs-img-2::before {
     inset: 0;
-    background-image: url("public/images/badge-2-bg.png");
+    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/badge-2-bg.png");
     background-repeat: no-repeat;
     background-size: contain;
     animation: rotate360 15s linear infinite;
@@ -1372,7 +1372,7 @@ textarea.input-field {
 .footer-brand {
     position: relative;
     padding: 50px 25px;
-    background: var(--smoky-black-1) url('/public/images/footer-form-bg.png');
+    background: var(--smoky-black-1) url('public/images/footer-form-bg.png');
     background-position: center top;
     background-repeat: repeat;
 }
