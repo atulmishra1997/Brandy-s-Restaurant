@@ -981,7 +981,7 @@ body.nav-active {
     transform: translateX(-50%);
     width: 140px;
     height: 100%;
-    background-image: url("/public/images/img-pattern.svg");
+    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/img-pattern.svg");
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
@@ -1053,7 +1053,7 @@ body.nav-active {
     left: 50%;
     transform: translateX(-50%);
     width: 140px;
-    background-image: url("/public/images/img-pattern.svg");
+    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/img-pattern.svg");
     background-repeat: repeat;
 }
 
