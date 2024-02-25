@@ -595,7 +595,7 @@ body.nav-active {
 }
 
 .section-subtitle::after {
-    content: url("../public/images/separator.svg");
+    content: url("../../public/images/separator.svg");
     display: block;
     width: 100px;
     margin-inline: auto;
