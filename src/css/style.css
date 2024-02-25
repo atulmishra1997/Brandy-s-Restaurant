@@ -595,7 +595,7 @@ body.nav-active {
 }
 
 .section-subtitle::after {
-    content: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/separator.svg");
+    content: url("../public/images/separator.svg");
     display: block;
     width: 100px;
     margin-inline: auto;
@@ -981,7 +981,7 @@ body.nav-active {
     transform: translateX(-50%);
     width: 140px;
     height: 100%;
-    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/img-pattern.svg");
+    background-image: url("../public/images/img-pattern.svg");
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
@@ -1053,7 +1053,7 @@ body.nav-active {
     left: 50%;
     transform: translateX(-50%);
     width: 140px;
-    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/img-pattern.svg");
+    background-image: url("../public/images/img-pattern.svg");
     background-repeat: repeat;
 }
 
@@ -1065,7 +1065,7 @@ body.nav-active {
 
 .about .abs-img-2::before {
     inset: 0;
-    background-image: url("https://github.com/atulmishra1997/Brandy-s-Restaurant/blob/master/public/images/badge-2-bg.png");
+    background-image: url("../public/images/badge-2-bg.png");
     background-repeat: no-repeat;
     background-size: contain;
     animation: rotate360 15s linear infinite;
@@ -1372,7 +1372,7 @@ textarea.input-field {
 .footer-brand {
     position: relative;
     padding: 50px 25px;
-    background: var(--smoky-black-1) url('public/images/footer-form-bg.png');
+    background: var(--smoky-black-1) url('../public/images/footer-form-bg.png');
     background-position: center top;
     background-repeat: repeat;
 }
@@ -1382,7 +1382,7 @@ textarea.input-field {
     top: 0;
     width: 15px;
     height: 100%;
-    background-image: url('public/images/footer-form-pattern.svg');
+    background-image: url('../public/images/footer-form-pattern.svg');
 }
 
 .footer-brand::before { left: 0;}
